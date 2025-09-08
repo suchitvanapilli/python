@@ -39,3 +39,21 @@ print(s[1::2])
 # example 10
 s = "Hello World"
 print(s[::-1])
+
+# example 11
+string1 = "Hello"
+string2 = "World"
+result = string1 + " " + string2
+print(result)
+
+# example 12
+string = "python"
+print(string[1:4])
+
+# example 13
+string = "Hello, World!"
+print(string.find("World"))
+
+#example 14
+string = "Hello,World"
+print(string.replace("Hello", "hi"))
