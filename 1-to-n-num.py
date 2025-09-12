@@ -6,7 +6,6 @@ while i <= n:
     print(i)
     i += 1
 
-
                                             #using for loop
 n = int(input("enter n value : "))
 i = 0
